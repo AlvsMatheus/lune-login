@@ -53,7 +53,7 @@ const Hero = () => {
                   required
                   type="password" 
                   placeholder="Password" 
-                  className=" w-50 border rounded-4xl p-2 text-white focus:outline-none" />
+                  className=" w-50 border rounded-4xl p-2 text-white focus:outline-none focus:ring-2 focus:ring-indigo-500 " />
                   <div className="flex justify-end w-full mt-1">
                     <a
                     href="#"
