@@ -1,4 +1,4 @@
-<img src="./public/Novo Projeto (3).jpg">
+<img src="./public/Novo Projeto (4).jpg">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=200&pause=1000&color=F4F76C&width=435&lines=About+%F0%9F%8C%99)](https://git.io/typing-svg)
 
